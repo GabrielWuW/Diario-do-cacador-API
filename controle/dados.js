@@ -261,7 +261,7 @@ export const dados = {
             "nome": "Batedor Musgoso",
             "descricaoUm": "Criatura tímida que assusta intrusos cobrindo-se com enormes tufos de musgo.",
             "descricaoDois": "É pequeno, mas encontra muita coragem e força quando se cobre de folhagem. E eu entendo o desejo de se camuflar...",
-            "icon": "https://cdn.jsdelivr.net/gh/GabrielWuW/images@main/imagens/Moss%20Charger%20-%20bestiary_moss_charger_f.png",
+            "icon": "https://cdn.jsdelivr.net/gh/GabrielWuW/images@main/imagens/Massive%20Moss%20Charger%20-%20bestiary_mega_moss_charger_s.png",
             "imagem": "https://cdn.jsdelivr.net/gh/GabrielWuW/images@main/imagens/Moss%20Charger%20-%20bestiary_moss_charger_f.png"
         },
         {

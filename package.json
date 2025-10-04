@@ -1,0 +1,24 @@
+{
+  "name": "hollow-knight-api",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000i\u0000a\u0000r\u0000i\u0000o\u0000-\u0000d\u0000o\u0000-\u0000c\u0000a\u0000c\u0000a\u0000d\u0000o\u0000r\u0000-\u0000A\u0000P\u0000I\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielWuW/Diario-do-cacador-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielWuW/Diario-do-cacador-API/issues"
+  },
+  "homepage": "https://github.com/GabrielWuW/Diario-do-cacador-API#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}

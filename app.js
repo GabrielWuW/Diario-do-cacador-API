@@ -16,6 +16,11 @@ app.use((request, response, next) => {
     next(); // Próximo, carregar os próximos endpoints
 });
 
+// ✅ Mensagem HTML na URL base
+app.get('/', (request, response) => {
+    response.status(200).send('Tudo funcionando como deveria :)');
+});
+
 app.get('/v1/hollow/obterTodosInimigos', function (request, response) {
     let monstros = dados.obterTodosInimigos();
 
@@ -24,5 +29,5 @@ app.get('/v1/hollow/obterTodosInimigos', function (request, response) {
 });
 
 app.listen(PORT, function () {
-    console.log('API rodando em http://localhost:8080');
+    console.log(`API rodando em http://localhost:${PORT}`);
 });
